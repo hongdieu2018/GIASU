@@ -1,0 +1,6 @@
+{
+  "name": "GIA SƯ TIN HỌC LỚP 3 - GIÁO VIÊN: HỒNG DIỆU",
+  "description": "Web App học tập thông minh giúp học sinh ôn luyện kiến thức Tin học lớp 3 theo chuẩn sách giáo khoa, câu hỏi phân hóa từ dễ đến khó và cho phép giáo viên tùy chỉnh nội dung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
